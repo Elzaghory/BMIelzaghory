@@ -1,8 +1,4 @@
-import pyfiglet
 from colorama import Fore
-
-txt = pyfiglet.figlet_format("BMIelzaghory")
-print(txt) 
 
 print()
 print(Fore.RED + 'Pemilik : ElZaghory')
