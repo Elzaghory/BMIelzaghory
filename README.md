@@ -1,4 +1,5 @@
 BMIelzaghory
+
 sebuah program untuk mengira BMI secara individu
 
 python language
@@ -11,8 +12,11 @@ Run terminal or termux
 command
 
 git clone https://github.com/Elzaghory/BMIelzaghory.git
+
 cd BMIelzaghory
+
 python BMIelzaghory.py
+
 #window 7,8,10
 
 Install python dan paste di path variable
